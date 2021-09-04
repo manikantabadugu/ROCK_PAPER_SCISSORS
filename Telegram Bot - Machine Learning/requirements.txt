@@ -1,0 +1,4 @@
+xgboost==1.4.2
+lightgbm==3.2.1
+catboost==0.26
+PyTelegramBotAPI==3.8.2
