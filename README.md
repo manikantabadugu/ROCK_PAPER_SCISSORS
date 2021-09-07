@@ -11,5 +11,8 @@
 ![WhatsApp Image 2021-09-05 at 00 51 47](https://user-images.githubusercontent.com/84836313/132109783-08d10198-8a96-4d74-922a-64e9ad128d32.jpeg)
 ![WhatsApp Image 2021-09-05 at 00 51 47 (1)](https://user-images.githubusercontent.com/84836313/132109784-b4ac0c93-b0b7-4d91-9660-335155a5c55f.jpeg)
 
-
+4). During the image processing above images are converted into skeletons in the size of 32,32 in order to wvwn work with small models
+![1628722391 0618424_Murtaza](https://user-images.githubusercontent.com/84836313/132301759-9406dc7b-dace-4d22-a7ed-c3600c7045b3.png)
+![1628503248 6553388_damian](https://user-images.githubusercontent.com/84836313/132301824-935a4fa2-e611-4783-abe6-b2b9426825e2.png)
+![1628502986 7481647_damian](https://user-images.githubusercontent.com/84836313/132301919-e21ba467-25df-40a3-8bf4-97127d6d6c84.png)
   
